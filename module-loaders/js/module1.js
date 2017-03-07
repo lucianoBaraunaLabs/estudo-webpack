@@ -1,3 +1,3 @@
 //# module 1
-console.log("module 1..Birll");
-
+var $ = require('jquery');
+$('h1').html('Opa isso é um h1');

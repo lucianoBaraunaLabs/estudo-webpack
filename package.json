@@ -1,0 +1,24 @@
+{
+  "name": "estudo-webpack",
+  "version": "1.0.0",
+  "description": "estudo de webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianoMeusCursos/estudo-webpack.git"
+  },
+  "author": "LucianoBarauna <baraunaluciano@gmail.com> (http://lucianobarauna.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucianoMeusCursos/estudo-webpack/issues"
+  },
+  "homepage": "https://github.com/lucianoMeusCursos/estudo-webpack#readme",
+  "devDependencies": {
+    "jquery": "^3.1.1",
+    "webpack": "^2.2.1"
+  }
+}
